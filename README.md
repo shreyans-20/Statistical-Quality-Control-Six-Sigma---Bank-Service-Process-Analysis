@@ -1,4 +1,4 @@
-# Statistical-Quality-Control-Six-Sigma---Bank-Service-Process-Analysis
+# Statistical-Quality-Control-Six-Sigma Bank-Service-Process-Analysis
 This project applies Statistical Quality Control (SQC) and Six Sigma tools to analyze and improve customer waiting time in a bank service queue system.
 
 ## **Project Overview**
